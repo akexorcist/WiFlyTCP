@@ -1,0 +1,48 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+debugPrintln	KEYWORD2
+debugPrint	KEYWORD2
+enter	KEYWORD2
+setDHCP	KEYWORD2
+setWlanJoin	KEYWORD2
+setWlanKey	KEYWORD2
+setWlanAuth	KEYWORD2
+setWlanPassword	KEYWORD2
+join	KEYWORD2
+setTCPAutoconn	KEYWORD2
+setTCPIdle	KEYWORD2
+readTCP	KEYWORD2
+checkConnection	KEYWORD2
+isWifiConnected	KEYWORD2
+isTCPOpened	KEYWORD2
+isTCPAvailable	KEYWORD2
+getIP	KEYWORD2
+getPort	KEYWORD2
+getNetmask	KEYWORD2
+getGateway	KEYWORD2
+setDebug	KEYWORD2
+
+######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+WIFLY_WLAN_AUTH_OPEN	LITERAL1
+WIFLY_WLAN_AUTO_WEP128	LITERAL1
+WIFLY_WLAN_AUTO_WPA1	LITERAL1
+WIFLY_WLAN_AUTO_WPA1_WPA2	LITERAL1
+WIFLY_WLAN_AUTO_WPA2_PSK	LITERAL1
