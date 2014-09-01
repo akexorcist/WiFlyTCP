@@ -7,8 +7,8 @@
 
 WiFlyTCP wifly;                                      // Declare WiFly instance
 
-String ssid = "Akexorcist-MotoX";                    // Your WiFi SSID
-String pass = "exorcist";                            // Your WiFi password
+String ssid = "YOUR_SSID";                    // Your WiFi SSID
+String pass = "YOUR_PASS";                            // Your WiFi password
 
 boolean conn = false;                                // Declare boolean variable for TCP connection state
 
