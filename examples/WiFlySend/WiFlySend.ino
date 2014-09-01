@@ -6,8 +6,8 @@
 
 WiFlyTCP wifly;                                      // Declare WiFly instance
 
-String ssid = "Your_SSID";                    // Your WiFi SSID
-String pass = "Your_Pass";                            // Your WiFi password
+String ssid = "YOUR_SSID";                    // Your WiFi SSID
+String pass = "YOUR_PASS";                            // Your WiFi password
 
 void setup()
 {    
